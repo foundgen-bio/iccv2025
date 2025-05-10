@@ -32,7 +32,7 @@ learning feature representations in various learning tasks.
 Particularly, foundation models have been shown to achieve superior performance for training on multiple tasks with large-scale data and then fine-tuning it to small-scale data for specific tasks or zero-shot generalization.
 Biometrics is also an active field of research in computer vision community. Given various problems in biometric systems, several researchers are focused on improving the recognition accuracy of biometric systems as well as enhancing security and privacy in such systems. 
 
-This workshop aims to bring together researchers to discuss state-of-the-art advancements, applications, and challenges at the applications of foundation and generative models for biometrics. The workshop will foster discussions that inspire innovation and address challenges in real-world applications of these advanced models.
+The Foundation and Generative Models in Biometrics Workshop at [ICCV 2025](https://iccv.thecvf.com/Conferences/2025) aims to bring together researchers to discuss state-of-the-art advancements, applications, and challenges at the applications of foundation and generative models for biometrics. The workshop will foster discussions that inspire innovation and address challenges in real-world applications of these advanced models.
 
 
 ## Invited Speakers
