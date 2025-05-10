@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://foundgen-bio.github.io/iccv2025/sitemap.xml
