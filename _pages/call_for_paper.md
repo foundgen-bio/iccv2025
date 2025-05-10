@@ -38,7 +38,7 @@ OpenReview author instructions can be found [here](https://iccv.thecvf.com/Confe
 All submissions should be made through the workshop's OpenReview portal.
 
 ## Important Dates
-- Submission deadline: June 9, 2025
+- Submission deadline: June 8, 2025 (23:59 AoE)
 - Paper notification: June 25, 2025
 - Camera-ready deadline: July 20, 2025
 - Workshop date: October 19-20, 2025
