@@ -34,7 +34,7 @@ Biometrics is also an active field of research in computer vision community. Giv
 This workshop aims to bring together researchers to discuss state-of-the-art advancements, applications, and challenges at the applications of foundation and generative models for biometrics. The workshop will foster discussions that inspire innovation and address challenges in real-world applications of these advanced models.
 
 
-# Keynote Speakers
+## Keynote Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Kristen Grauman" affiliation="Meta & University of Texas at Austin" url="https://scholar.google.com/citations?user=Jp6Mz1sAAAAJ" img="/assets/img/speakers/kristengrauman.jpg" %}
@@ -46,7 +46,7 @@ This workshop aims to bring together researchers to discuss state-of-the-art adv
 
 
 
-# Organizers
+## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Hatef Otroshi" affiliation="Idiap Research Institute, Switzerland" url="https://scholar.google.com/citations?user=zFHgwcAAAAAJ" img="/assets/img/organisers/hatef.jpg" %}
   {% include people_horizontal.html name="Vitomir Štruc" affiliation="University of Ljubljana, Slovania" url="https://scholar.google.com/citations?user=kr52cmAAAAAJ" img="/assets/img/organisers/vitomirstruc.jpg" %}
@@ -58,5 +58,5 @@ This workshop aims to bring together researchers to discuss state-of-the-art adv
 
 
 
-# Technical Program Committee
+## Technical Program Committee
 *Call for Reviewers*: If you are interested in contributing to our paper review process, please complete the [sign-up form]. We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
