@@ -23,7 +23,6 @@ socials:
 
 <!-- Welcome to ICCV 2025 Workshop on Foundation and Generative Models in Biometrics! -->
 
-# ICCV 2025 Workshop on Foundation and Generative Models in Biometrics
 Oct 19/20, 2025, Honolulu, Hawai'i
 
 ## Introduction
