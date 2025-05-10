@@ -15,6 +15,10 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+socials:
+  enabled: false
+  
 ---
 
 Welcome to ICCV 2025 Workshop on Foundation and Generative Models in Biometrics!
