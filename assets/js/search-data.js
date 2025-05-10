@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/iccv2025/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-call-for-papers",
+          title: "Call for Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/iccv2025/call_for_paper/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
