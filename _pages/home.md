@@ -23,8 +23,10 @@ socials:
 
 <!-- Welcome to ICCV 2025 Workshop on Foundation and Generative Models in Biometrics! -->
 
+# ICCV 2025 Workshop on Foundation and Generative Models in Biometrics
+Oct 19/20, 2025, Honolulu, Hawai'i
 
-
+## Introduction
 Foundation models (such as CLIP, GPT, etc.) are extensively studied in different domains, including natural
 language processing (NLP), computer vision, etc. Given the performance and capabilities of these models, many researchers are focused on the development and applications of these models such that we can observe extremely rapid advancements, especially in the last three years. In fact, foundation models have demonstrated great potential in
 learning feature representations in various learning tasks. 
@@ -34,7 +36,7 @@ Biometrics is also an active field of research in computer vision community. Giv
 This workshop aims to bring together researchers to discuss state-of-the-art advancements, applications, and challenges at the applications of foundation and generative models for biometrics. The workshop will foster discussions that inspire innovation and address challenges in real-world applications of these advanced models.
 
 
-## Keynote Speakers
+## Invited Speakers
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           {% include people.html name="Kristen Grauman" affiliation="Meta & University of Texas at Austin" url="https://scholar.google.com/citations?user=Jp6Mz1sAAAAJ" img="/assets/img/speakers/kristengrauman.jpg" %}
@@ -59,4 +61,7 @@ This workshop aims to bring together researchers to discuss state-of-the-art adv
 
 
 ## Technical Program Committee
-*Call for Reviewers*: If you are interested in contributing to our paper review process, please complete the [sign-up form]. We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/9nsmoFR9bjaP68vW6). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+
+## Contact
+If you have any questions, please contact hatef.otroshi@idiap.ch

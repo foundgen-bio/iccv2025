@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ICCV 2025 Workshop on Foundation and Generative Models in Biometrics # the website title (if blank, full name will be used instead)
+title: ICCV Workshop on Foundation and Generative Models in Biometrics # the website title (if blank, full name will be used instead)
 first_name: ICCV 2025 Workshop on
 last_name: Foundation and Generative Models in Biometrics
 contact_note: >
@@ -45,7 +45,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: false
 posts_in_search: flase
 bib_search: true
