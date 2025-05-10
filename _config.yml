@@ -3,8 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: ICCV 2025 Workshop on Foundation and Generative Models in Biometrics # the website title (if blank, full name will be used instead)
-first_name: ICCV 2025 Workshop 
-middle_name: on
+first_name: ICCV 2025 Workshop on
 last_name: Foundation and Generative Models in Biometrics
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -51,7 +50,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 posts_in_search: true
 bib_search: true
 
