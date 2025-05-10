@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: false
-posts_in_search: true
+posts_in_search: flase
 bib_search: true
 
 # Dimensions
@@ -97,7 +97,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
