@@ -23,7 +23,7 @@ socials:
 
 <!-- Welcome to ICCV 2025 Workshop on Foundation and Generative Models in Biometrics! -->
 
-Oct 19/20, 2025, Honolulu, Hawai'i
+October 19-20, 2025, Honolulu, Hawai'i
 
 ## Introduction
 Foundation models (such as CLIP, GPT, etc.) are extensively studied in different domains, including natural
@@ -63,4 +63,4 @@ This workshop aims to bring together researchers to discuss state-of-the-art adv
 Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/9nsmoFR9bjaP68vW6). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
 
 ## Contact
-If you have any questions, please contact hatef.otroshi@idiap.ch
+If you have any questions, please contact [hatef.otroshi@idiap.ch](mailto:hatef.otroshi@idiap.ch?subject=Inquiry%20about%20ICCV%202025%20Workshop%20on%20Foundation%20and%20Generative%20Models%20in%20Biometrics).

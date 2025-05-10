@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-10 15:59:00-0400
+date: 2025-05-10 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Call for paper is out!
+Website is live!
