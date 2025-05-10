@@ -41,8 +41,8 @@ ninja.data = [{
       },{id: "news-website-is-live",
           title: 'Website is live!',
           description: "",
-          section: "News",},{id: "news-call-for-paper-is-out",
-          title: 'Call for paper is out!',
+          section: "News",},{id: "news-call-for-papers-is-out",
+          title: 'Call for papers is out!',
           description: "",
           section: "News",},{
       id: 'light-theme',
