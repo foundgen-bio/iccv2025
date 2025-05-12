@@ -35,7 +35,7 @@ OpenReview author instructions can be found [here](https://iccv.thecvf.com/Confe
 
 
 ## Submission Process
-All submissions should be made through the workshop's OpenReview portal.
+All submissions should be made through the workshop's OpenReview portal. (submission will open soon)
 
 ## Important Dates
 - Submission deadline: June 1, 2025 (23:59 AoE)
