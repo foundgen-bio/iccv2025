@@ -19,7 +19,7 @@ Topics of interest include but are not limited to:
     - Template Security.
     
 - Generating Synthetic Image/Video of Face, Human Body, Fingerprint, Iris, etc.
-- Large Language Models, Reasoning, and interpretability for Biometrics. 
+- Large Language Models, Reasoning, and Interpretability for Biometrics. 
 - Privacy and Ethical Aspects of Applying Foundation Models to Biometrics.
 
 ## Submission Guidelines
