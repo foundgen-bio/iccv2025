@@ -44,7 +44,15 @@ ninja.data = [{
           section: "News",},{id: "news-call-for-papers-is-out",
           title: 'Call for papers is out!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-important-dates-are-announced-and-the-submission-is-now-open-see-call-for-papers",
+          title: 'Important dates are announced and the submission is now open - see Call...',
+          description: "",
+          section: "News",},{id: "news-the-best-reviewed-papers-will-be-invited-to-submit-an-extended-version-to-a-special-issue-in-ieee-tbiom",
+          title: 'The best-reviewed papers will be invited to submit an extended version to a...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/iccv2025/news/announcement_4/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
