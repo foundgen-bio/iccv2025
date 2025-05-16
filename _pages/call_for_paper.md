@@ -5,7 +5,7 @@ permalink: /call_for_paper/
 nav: true
 ---
 
-The ICCV 2025 Workshop on Foundation and Genrative Models in Biometrics invites submissions of original research papers exploring the development, application, and evaluation of foundation and generative models in biometric recognition, analysis, and security. Accepted papers will appear in the proceedings of ICCV Workshop. 
+The ICCV 2025 Workshop on Foundation and Generative Models in Biometrics invites submissions of original research papers exploring the development, application, and evaluation of foundation and generative models in biometric recognition, analysis, and security. Accepted papers will appear in the proceedings of ICCV Workshop. 
 
 
 ## Topics of interest
@@ -35,10 +35,16 @@ OpenReview author instructions can be found [here](https://iccv.thecvf.com/Confe
 
 
 ## Submission Process
-All submissions should be made through the workshop's OpenReview portal. (submission will open soon)
+All submissions should be made through the workshop's OpenReview portal: https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/FoundGen-Bio
 
-## Important Dates (Tentative)
-- Submission deadline: June 1, 2025 (23:59 AoE)
-- Paper notification: June 25, 2025
-- Camera-ready deadline: July 20, 2025
-- Workshop date: October 19-20, 2025
+
+## Best-Reviewed Papers: IEEE-TBIOM Special Issue 
+All accepted papers will be published as part of the official ICCV 2025 workshop proceedings. 
+In addition, the authors of the *best-reviewed papers* will be invited to submit an extended version of their paper to a special issue in the IEEE Transactions on Biometrics, Behavior, and Identity Science (IEEE-TBIOM).
+
+
+## Important Dates 
+- Submission deadline: June 27, 2025 (23:59 AoE)
+- Paper notification: July 11, 2025
+- Camera-ready deadline: August 10, 2025
+- Workshop date: October 19-20, 2025 (TBD)
