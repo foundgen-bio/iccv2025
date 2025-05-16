@@ -35,7 +35,7 @@ OpenReview author instructions can be found [here](https://iccv.thecvf.com/Confe
 
 
 ## Submission Process
-All submissions should be made through the workshop's OpenReview portal: https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/FoundGen-Bio
+All submissions should be made through the workshop's OpenReview portal: [https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/FoundGen-Bio](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/FoundGen-Bio)
 
 
 ## Best-Reviewed Papers: IEEE-TBIOM Special Issue 
