@@ -23,7 +23,7 @@ socials:
 
 <!-- Welcome to ICCV 2025 Workshop on Foundation and Generative Models in Biometrics! -->
 
-October 19-20, 2025, Honolulu, Hawai'i
+October 20, 2025, Honolulu, Hawai'i
 
 ## Introduction
 Foundation models (such as CLIP, GPT, etc.) are extensively studied in different domains, including natural
