@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-11 15:59:00-0400
+date: 2025-06-26 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-[Call for papers](https://foundgen-bio.github.io/iccv2025/call_for_paper/) is out!
+[Submission deadline is extended to July 1](https://foundgen-bio.github.io/iccv2025/call_for_paper/)!
