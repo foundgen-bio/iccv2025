@@ -44,9 +44,6 @@ ninja.data = [{
           section: "News",},{id: "news-call-for-papers-is-out",
           title: 'Call for papers is out!',
           description: "",
-          section: "News",},{id: "news-call-for-papers-is-out",
-          title: 'Call for papers is out!',
-          description: "",
           section: "News",},{id: "news-important-dates-are-announced-and-the-submission-is-now-open-see-call-for-papers",
           title: 'Important dates are announced and the submission is now open - see Call...',
           description: "",
@@ -55,7 +52,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/iccv2025/news/announcement_4/";
-            },},{
+            },},{id: "news-submission-deadline-is-extended-to-july-1",
+          title: 'Submission deadline is extended to July 1!',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
