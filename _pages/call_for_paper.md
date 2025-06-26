@@ -44,7 +44,7 @@ In addition, the authors of the *best-reviewed papers* will be invited to submit
 
 
 ## Important Dates 
-- Submission deadline: June 27, 2025 (23:59 AoE)
+- Submission deadline (**extended**): July 1, 2025 (23:59 AoE)
 - Paper notification: July 11, 2025
 - Camera-ready deadline: August 10, 2025
 - Workshop date: October 19-20, 2025 (TBD)
