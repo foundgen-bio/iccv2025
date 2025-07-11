@@ -55,6 +55,9 @@ ninja.data = [{
             },},{id: "news-submission-deadline-is-extended-to-july-1",
           title: 'Submission deadline is extended to July 1!',
           description: "",
+          section: "News",},{id: "news-decision-notifications-are-sent-to-authors-congratulations-to-authors-of-accepted-papers",
+          title: 'Decision notifications are sent to authors. Congratulations to authors of accepted papers!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
