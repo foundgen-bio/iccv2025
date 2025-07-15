@@ -60,18 +60,18 @@ The Foundation and Generative Models in Biometrics Workshop at [ICCV 2025](https
 
 
 ## Technical Program Committee
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px; font-family: Arial, sans-serif;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px;">
 <div>Ruben Tolosana (Universidad Autónoma de Madrid)</div>
 <div>Krishna Kanth Nakka (Huawei Technologies Ltd.)</div>
 <div>Kartik Narayan (Johns Hopkins University)</div>
-<div>Naser Damer (Fraunhofer Institute for Computer Graphics Research IGD)</div>
-<div>Ahmad Hassanpour (Norwegian University of Science and Technology)</div>
-<div>Ajian Liu (Institute of Automation, Chinese Academy of Sciences)</div>
+<div>Naser Damer (Fraunhofer IGD)</div>
+<div>Ahmad Hassanpour (NTNU)</div>
+<div>Ajian Liu (Institute of Automation, CASIA)</div>
 <div>Alessandro Pianese (University of Naples Federico II)</div>
 <div>Feng Liu (Drexel University)</div>
 <div>Shivangi Yadav (Michigan State University)</div>
 <div>Alain Komaty (Idiap Research Institute)</div>
-<div>Tianshuo Zhang (Institute of Automation, Chinese Academy of Sciences)</div>
+<div>Tianshuo Zhang (Institute of Automation, CASIA)</div>
 <div>Davide Cozzolino (University of Naples Federico II)</div>
 <div>Žiga Babnik (University of Ljubljana)</div>
 <div>Zunnan Xu (Tsinghua University)</div>
