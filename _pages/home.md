@@ -61,6 +61,7 @@ The Foundation and Generative Models in Biometrics Workshop at [ICCV 2025](https
 
 ## Technical Program Committee
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px;">
+<div>Svetlana Yanushkevich (University of Calgary)</div>
 <div>Ruben Tolosana (Universidad Autónoma de Madrid)</div>
 <div>Krishna Kanth Nakka (Huawei Technologies Ltd.)</div>
 <div>Kartik Narayan (Johns Hopkins University)</div>
@@ -79,8 +80,7 @@ The Foundation and Generative Models in Biometrics Workshop at [ICCV 2025](https
 <div>Cunjian Chen (Monash University)</div>
 <div>Aparna Bharati (Lehigh University)</div>
 <div>Sudipta Banerjee (New York University)</div>
-<div>Svetlana Yanushkevich (University of Calgary)</div>
-
+<br>
 </div>
 
 ## Contact
