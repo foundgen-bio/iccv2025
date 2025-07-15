@@ -60,7 +60,28 @@ The Foundation and Generative Models in Biometrics Workshop at [ICCV 2025](https
 
 
 ## Technical Program Committee
-Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/9nsmoFR9bjaP68vW6). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px 40px; font-family: Arial, sans-serif;">
+<div>Ruben Tolosana (Universidad Autónoma de Madrid)</div>
+<div>Krishna Kanth Nakka (Huawei Technologies Ltd.)</div>
+<div>Kartik Narayan (Johns Hopkins University)</div>
+<div>Naser Damer (Fraunhofer Institute for Computer Graphics Research IGD)</div>
+<div>Ahmad Hassanpour (Norwegian University of Science and Technology)</div>
+<div>Ajian Liu (Institute of Automation, Chinese Academy of Sciences)</div>
+<div>Alessandro Pianese (University of Naples Federico II)</div>
+<div>Feng Liu (Drexel University)</div>
+<div>Shivangi Yadav (Michigan State University)</div>
+<div>Alain Komaty (Idiap Research Institute)</div>
+<div>Tianshuo Zhang (Institute of Automation, Chinese Academy of Sciences)</div>
+<div>Davide Cozzolino (University of Naples Federico II)</div>
+<div>Žiga Babnik (University of Ljubljana)</div>
+<div>Zunnan Xu (Tsinghua University)</div>
+<div>Marco Huber (Fraunhofer IGD)</div>
+<div>Cunjian Chen (Monash University)</div>
+<div>Aparna Bharati (Lehigh University)</div>
+<div>Sudipta Banerjee (New York University)</div>
+<div>Svetlana Yanushkevich (University of Calgary)</div>
+
+</div>
 
 ## Contact
 If you have any questions, please contact [hatef.otroshi@idiap.ch](mailto:hatef.otroshi@idiap.ch?subject=Inquiry%20about%20ICCV%202025%20Workshop%20on%20Foundation%20and%20Generative%20Models%20in%20Biometrics).
