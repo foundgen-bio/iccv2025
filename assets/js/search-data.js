@@ -65,8 +65,8 @@ ninja.data = [{
           section: "News",},{id: "news-decision-notifications-are-sent-to-authors-congratulations-to-authors-of-accepted-papers",
           title: 'Decision notifications are sent to authors. Congratulations to authors of accepted papers!',
           description: "",
-          section: "News",},{id: "news-list-of-accepted-papers-are-avialble",
-          title: 'List of accepted papers are avialble.',
+          section: "News",},{id: "news-list-of-accepted-papers-are-available",
+          title: 'List of accepted papers are available.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/iccv2025/news/announcement_7/";
