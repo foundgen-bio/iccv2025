@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-08-31 18:00:00+0200
-title: List of accepted papers are avialble.
+title: List of accepted papers are available.
 inline: false
 related_posts: false
 ---
