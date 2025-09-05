@@ -59,13 +59,13 @@ table td div::before {
       <td><strong>Paper Presentations</strong></td>
       <td>
         <div><em>FLUXSynID: A Framework for Identity-Controlled Synthetic Face Generation with Document and Live Images</em><br/>
-        Raul Ismayilov · Dzemila Sero · Luuk J. Spreeuwers</div>
-        <div><em>A Multi-domain Image Translative Diffusion StyleGAN for Iris Presentation Attack Detection</em><br/>
-        Shivangi Yadav · Arun Ross</div>
-        <div><em>GaitCrafter: Diffusion Model for Biometric Preserving Gait Synthesis</em><br/>
-        Sirshapan Mitra · Yogesh S Rawat</div>
+          Raul Ismayilov · Dzemila Sero · Luuk J. Spreeuwers</div>
         <div><em>Foundation vs Domain-specific Models: Performance Comparison, Fusion, and Explainability in Face Recognition</em><br/>
-        Redwan Sony · Parisa Farmanifard · Arun Ross · Anil K. Jain</div>
+          Redwan Sony · Parisa Farmanifard · Arun Ross · Anil K. Jain</div>
+        <div><em>FaceLLM: A Multimodal Large Language Model for Face Understanding</em><br/>
+          Hatef Otroshi Shahreza · Sébastien Marcel</div>
+        <div>[Invited] <em>Multi-View Slot Attention Using Paraphrased Texts for Face Anti-Spoofing</em><br/>
+          Jeongmin Yu · Susang Kim · Kisu Lee · Taekyoung Kwon · Won-Yong Shin · Ha Young Kim</div>
       </td>
     </tr>
 
@@ -92,12 +92,12 @@ table td div::before {
       <td>11:15 AM – 12:00 PM</td>
       <td><strong>Paper Presentations</strong></td>
       <td>
-        <div><em>FaceLLM: A Multimodal Large Language Model for Face Understanding</em><br/>
-        Hatef Otroshi Shahreza · Sébastien Marcel</div>
         <div>[Invited] <em>VIGFace: Virtual Identity Generation for Privacy-Free Face Recognition</em><br/>
           Minsoo Kim · Min-Cheol Sagong · Gi Pyo Nam · Junghyun Cho · Ig-Jae Kim</div>
-        <div>[Invited] <em>Multi-View Slot Attention Using Paraphrased Texts for Face Anti-Spoofing</em><br/>
-          Jeongmin Yu · Susang Kim · Kisu Lee · Taekyoung Kwon · Won-Yong Shin · Ha Young Kim</div>
+        <div><em>GaitCrafter: Diffusion Model for Biometric Preserving Gait Synthesis</em><br/>
+          Sirshapan Mitra · Yogesh S Rawat</div>
+        <div><em>A Multi-domain Image Translative Diffusion StyleGAN for Iris Presentation Attack Detection</em><br/>
+          Shivangi Yadav · Arun Ross</div>
       </td>
     </tr>
   </tbody>
