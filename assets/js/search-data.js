@@ -70,7 +70,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/iccv2025/news/announcement_7/";
-            },},{
+            },},{id: "news-workshop-program-is-out",
+          title: 'Workshop program is out!',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
