@@ -85,7 +85,8 @@ table td div::before {
     <tr>
       <td>10:30 AM – 11:15 AM</td>
       <td><strong>Keynote 2</strong></td>
-      <td>Kristen Grauman</td>
+      <td><em>What now, and what next? Fine-grained human activity understanding in video</em><br/>
+      Kristen Grauman</td>
     </tr>
 
     <tr>
